@@ -304,7 +304,7 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 
-Distributed under the `MIT License`. See [LICENSE](https://github.com/StevenPss/recipe-page-devChallenges/blob/main/LICENSE) for more information.
+Distributed under the `MIT License`. See [LICENSE](https://github.com/StevenPss/recipe-page-devChallenges/blob/main/LICENSE.txt) for more information.
 
 
 <!-- CONTACT -->
